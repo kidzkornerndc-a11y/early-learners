@@ -1,0 +1,7 @@
+{
+  "name": "Early Learners",
+  "description": "An interactive tracing app for children 0-4 to learn alphabet, numbers, and sight words with AI-powered pronunciation and feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
